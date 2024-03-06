@@ -1,6 +1,6 @@
 # Lab 6 Exercise 5
 
-## Lifetimes of Static Members
+## Static function members
 
 1. สร้าง console application project
 
@@ -11,7 +11,21 @@ dotnet new console --name Lab06_Ex05
 2. เปลี่ยน code ให้เป็นดังต่อไปนี้
 
 ```cs
- 
+StaticDemo.i = 123;
+StaticDemo.f = 1234.56f;
+StaticDemo.s = "Hello World!";
+StaticDemo.PrintValues();
+
+class StaticDemo
+{
+    public static int  i;
+    public static float f;
+    public static string  s;
+    public static void PrintValues()
+    {
+        System.Console.WriteLine($"Integer i : {i}, floating point f : {f}, string s  : {s}");
+    }
+}
 ```
 
 3. Build project โดยการใช้คำสั่ง
