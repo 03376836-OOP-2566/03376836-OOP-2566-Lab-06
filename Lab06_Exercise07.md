@@ -1,6 +1,6 @@
 # Lab 6 Exercise 7
 
-## Member constants
+## Use constance to create new constant
 
 1. สร้าง console application project
 
