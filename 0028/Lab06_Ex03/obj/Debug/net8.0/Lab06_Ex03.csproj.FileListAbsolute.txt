@@ -1,0 +1,15 @@
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\Lab06_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\Lab06_Ex03.AssemblyInfoInputs.cache
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\Lab06_Ex03.AssemblyInfo.cs
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\Lab06_Ex03.csproj.CoreCompileInputs.cache
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\Lab06_Ex03.sourcelink.json
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\bin\Debug\net8.0\Lab06_Ex03.exe
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\bin\Debug\net8.0\Lab06_Ex03.deps.json
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\bin\Debug\net8.0\Lab06_Ex03.runtimeconfig.json
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\bin\Debug\net8.0\Lab06_Ex03.dll
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\bin\Debug\net8.0\Lab06_Ex03.pdb
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\Lab06_Ex03.dll
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\refint\Lab06_Ex03.dll
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\Lab06_Ex03.pdb
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\Lab06_Ex03.genruntimeconfig.cache
+E:\Virtual code\ทำงาน\55555555555555\03376836-OOP-2566-Lab-06\0028\Lab06_Ex03\obj\Debug\net8.0\ref\Lab06_Ex03.dll
