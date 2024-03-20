@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\Lab06_Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\Lab06_Ex04.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\Lab06_Ex04.AssemblyInfo.cs
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\Lab06_Ex04.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\Lab06_Ex04.sourcelink.json
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\bin\Debug\net8.0\Lab06_Ex04.exe
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\bin\Debug\net8.0\Lab06_Ex04.deps.json
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\bin\Debug\net8.0\Lab06_Ex04.runtimeconfig.json
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\bin\Debug\net8.0\Lab06_Ex04.dll
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\bin\Debug\net8.0\Lab06_Ex04.pdb
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\Lab06_Ex04.dll
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\refint\Lab06_Ex04.dll
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\Lab06_Ex04.pdb
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\Lab06_Ex04.genruntimeconfig.cache
+C:\Users\HP\Downloads\git\asdf\03376836-OOP-2566-LAB-06\0028\Lab06_Ex04\obj\Debug\net8.0\ref\Lab06_Ex04.dll

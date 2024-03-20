@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Downloads\\Alterprise Gay\\03376836-OOP-2566-Lab-06\\0028\\Lab06_Ex01\\Lab06_Ex01.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Downloads\\git\\asdf\\03376836-OOP-2566-Lab-06\\0028\\Lab06_Ex01\\Lab06_Ex01.csproj",
       "projectName": "Lab06_Ex01",
-      "projectPath": "C:\\Users\\admin\\Downloads\\Alterprise Gay\\03376836-OOP-2566-Lab-06\\0028\\Lab06_Ex01\\Lab06_Ex01.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Downloads\\Alterprise Gay\\03376836-OOP-2566-Lab-06\\0028\\Lab06_Ex01\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Downloads\\git\\asdf\\03376836-OOP-2566-Lab-06\\0028\\Lab06_Ex01\\Lab06_Ex01.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Downloads\\git\\asdf\\03376836-OOP-2566-Lab-06\\0028\\Lab06_Ex01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

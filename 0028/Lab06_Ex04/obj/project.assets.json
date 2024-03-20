@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Downloads\\git\\asdf\\03376836-OOP-2566-Lab-06\\0028\\Lab06_Ex02\\Lab06_Ex02.csproj",
-      "projectName": "Lab06_Ex02",
-      "projectPath": "C:\\Users\\HP\\Downloads\\git\\asdf\\03376836-OOP-2566-Lab-06\\0028\\Lab06_Ex02\\Lab06_Ex02.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Downloads\\git\\asdf\\03376836-OOP-2566-LAB-06\\0028\\Lab06_Ex04\\Lab06_Ex04.csproj",
+      "projectName": "Lab06_Ex04",
+      "projectPath": "C:\\Users\\HP\\Downloads\\git\\asdf\\03376836-OOP-2566-LAB-06\\0028\\Lab06_Ex04\\Lab06_Ex04.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Downloads\\git\\asdf\\03376836-OOP-2566-Lab-06\\0028\\Lab06_Ex02\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Downloads\\git\\asdf\\03376836-OOP-2566-LAB-06\\0028\\Lab06_Ex04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
