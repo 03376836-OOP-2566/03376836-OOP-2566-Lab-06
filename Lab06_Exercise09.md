@@ -43,6 +43,7 @@ dotnet build  Lab06_Ex09
 dotnet run --project Lab06_Ex09
 ```
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/0373c740-53aa-47f2-ada7-8c74cb99ea81)
 
 
 
