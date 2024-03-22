@@ -53,3 +53,12 @@ dotnet run --project Lab06_Ex05
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/cb537cfe-24c3-4b89-b62f-27874ceac1e9)
 
 7. อธิบายสิ่งที่พบในการทดลอง
+
+การทดลองนี้เป็นการใช้งานตัวแปรแบบ static  ซึ่งเป็นตัวแปรที่สามารถเข้าถึงได้โดยตรงผ่านชื่อของคลาส โดยไม่ต้องสร้างอ็อบเจกต์ของคลาสนั้นก่อน
+StaticDemo.i = 123;: กำหนดค่าให้กับตัวแปร integer i ในคลาส StaticDemo เป็น 123
+StaticDemo.f = 1234.56f;: กำหนดค่าให้กับตัวแปร float f ในคลาส StaticDemo เป็น 1234.56
+StaticDemo.s = "Hello World!";: กำหนดค่าให้กับตัวแปร string s ในคลาส StaticDemo เป็น "Hello World!"
+StaticDemo.PrintValues();: เรียกใช้เมธอด PrintValues() ในคลาส StaticDemo เพื่อพิมพ์ค่าของตัวแปร i, f, และ s
+ผลลัพธ์ที่คาดหวังคือการพิมพ์ค่าของตัวแปร i, f, และ s ที่ถูกกำหนดค่าลงในคลาส StaticDemo ดังนี้
+Integer i : 123, floating point f : 1234.56, string s  : Hello World!
+ตามผลลัพน์ด้านบน
