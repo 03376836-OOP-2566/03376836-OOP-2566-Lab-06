@@ -74,7 +74,7 @@ dotnet run --project Lab06_Ex04
        public int b1;
       public static int b2;
 
-   }
+    }
 
 3. Build project โดยการใช้คำสั่ง
 
