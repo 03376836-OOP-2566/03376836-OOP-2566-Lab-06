@@ -46,6 +46,16 @@ dotnet run --project Lab06_Ex09
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/0373c740-53aa-47f2-ada7-8c74cb99ea81)
 
 
+แก้ไขโค้ดได้ผลดังนี้
+
+โค้ด
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/cc00748b-470c-46d2-8a3e-845814a84b5b)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/418e639e-4d3a-4f11-bf8c-1ee17977a654)
+
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/a75c1552-5d3c-412a-86c5-bbdbbd09a89a)
+
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
