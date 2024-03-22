@@ -36,12 +36,12 @@ dotnet build  Lab06_Ex09
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/9c3127c3-f713-417a-9946-f07eb7fa3c91)
 
-5. Run project โดยการใช้คำสั่ง
+
+6. Run project โดยการใช้คำสั่ง
 
 ```cmd
 dotnet run --project Lab06_Ex09
 ```
-
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
 
