@@ -22,5 +22,9 @@
 
 - ผลลัพท์
 
+
 ![Screenshot 2024-03-23 012826](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-06/assets/144195697/c933c8eb-ca1c-46bb-9930-8edf8781596b)
+
+
+
 ![Screenshot 2024-03-23 012831](https://github.com/KanyakornPuengmon/03376836-OOP-2566-Lab-06/assets/144195697/8c1fdd37-ffff-40f6-a51f-0238994e5eb4)
