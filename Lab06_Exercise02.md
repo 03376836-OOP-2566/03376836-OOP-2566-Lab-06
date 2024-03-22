@@ -8,6 +8,8 @@
 ```
 dotnet new console --name Lab06_Ex02
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/b6084bb7-e968-4a3f-a5d0-7bce38820df6)
+
 2. เปลี่ยน code ให้เป็นดังต่อไปนี้
 
 ```cs
@@ -23,6 +25,7 @@ static class Person
     }
 }
 ```
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/e4f2256e-1cab-4120-bc5f-a85b66f37aaf)
 
 3. Build project โดยการใช้คำสั่ง
 
@@ -34,6 +37,7 @@ dotnet build  Lab06_Ex02
 
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/8ac7a048-7866-4423-ab0a-b4332fa55fc0)
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -42,5 +46,6 @@ dotnet run --project Lab06_Ex02
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/1f4a64af-2e79-4ca5-9478-89dd89659750)
 
 7. อธิบายสิ่งที่พบในการทดลอง
