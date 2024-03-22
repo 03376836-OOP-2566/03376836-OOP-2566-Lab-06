@@ -55,4 +55,28 @@ dotnet run --project Lab06_Ex04
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/509ef08f-5eea-4a3c-9ee3-f8426a926791)
 
+แก้ไขดค้ดได้ ดังนี้ 
+
+3. Build project โดยการใช้คำสั่ง
+
+```cmd
+dotnet build  Lab06_Ex04
+```
+
+ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
+
+4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/5df1680f-d437-4ddc-890f-d726061a023f)
+
+5. Run project โดยการใช้คำสั่ง
+
+```cmd
+dotnet run --project Lab06_Ex04
+```
+
+6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-06/assets/144197034/e4f769a7-bb77-4844-88b0-c98e9ffe4e9b)
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+
