@@ -41,6 +41,10 @@ dotnet build  Lab06_Ex03
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
+### แก้ไขแล้ว
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-06/assets/144195555/3d20124b-069f-4acb-b13d-4b8c1f493795)
+### แก้ไข student.name เป็น Student.name
+### แก้ไข static กับ public ให้เป็น public startic
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -49,5 +53,9 @@ dotnet run --project Lab06_Ex03
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-
+### แก้ไขแล้ว
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-06/assets/144195555/ce972f54-4b6c-47c3-b80d-b3f973d4eb9e)
+### แก้ไข student.name เป็น Student.name
+### แก้ไข static กับ public ให้เป็น public startic
 7. อธิบายสิ่งที่พบในการทดลอง
+### โปรแกรมจะแสดงผล Hello from Enter your name here, Hello from Enter student's name
