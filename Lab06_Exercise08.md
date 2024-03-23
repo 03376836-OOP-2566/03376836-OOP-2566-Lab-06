@@ -33,6 +33,8 @@ dotnet build  Lab06_Ex08
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
 
+<img width="572" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-06/assets/144195963/8c30acb2-cd51-48f4-9029-7f53c3f83064">
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -41,4 +43,9 @@ dotnet run --project Lab06_Ex08
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="551" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-06/assets/144195963/9112ebdc-100b-450d-b18f-f6d1494efaf4">
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+
+โปรแกรมจะแสดงผล Radius = 100, Area = 31415.899999999998
