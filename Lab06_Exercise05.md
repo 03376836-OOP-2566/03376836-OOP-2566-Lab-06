@@ -38,6 +38,8 @@ dotnet build  Lab06_Ex05
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
 
+<img width="530" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-06/assets/144195963/bd58b5f8-3bb9-4128-9ff5-a3f7db3ea9e2">
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -46,4 +48,8 @@ dotnet run --project Lab06_Ex05
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="686" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-06/assets/144195963/5b4b5d82-c4bf-41b0-8914-2973b73665e7">
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล Integer i : 123, floating point f : 1234.56, string s : Hello World!
