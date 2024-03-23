@@ -42,6 +42,8 @@ dotnet build  Lab06_Ex03
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
 
+<img width="556" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-06/assets/144195963/751e2f09-411e-4e0b-993f-f8e4f3e4feec">
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -50,4 +52,9 @@ dotnet run --project Lab06_Ex03
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="446" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-06/assets/144195963/091a381f-f08b-49c9-9ad4-82c38ef3e668">
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+
+โปรแกรมจะแสดงผล Hello from Enter your name here, Hello from Enter student's name
