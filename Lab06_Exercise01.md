@@ -34,7 +34,8 @@ dotnet build  Lab06_Ex01
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
-![1](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/e7afec6b-35f8-4e51-94f2-12810489f25f)
+![1](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/86934e8d-a5a3-4638-affa-6491f207a759)
+
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -44,7 +45,8 @@ dotnet run --project Lab06_Ex01
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
-![1 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/4407e93b-e75b-415d-a7fa-d8d13de7b5ba)
+![1 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/7d8cfcfe-c409-4167-a114-770318f67411)
+
 
 7. อธิบายสิ่งที่พบในการทดลอง
 
