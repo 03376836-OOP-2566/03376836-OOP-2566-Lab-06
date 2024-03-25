@@ -34,6 +34,9 @@ dotnet build  Lab06_Ex01
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![1](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/86934e8d-a5a3-4638-affa-6491f207a759)
+
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -42,4 +45,9 @@ dotnet run --project Lab06_Ex01
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![1 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/7d8cfcfe-c409-4167-a114-770318f67411)
+
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล Hello form Enter your name here สร้าง Person ที่มี Field name Method Getname() เพื่อคืนค่า "Hello from" พร้อมกับค่า name ที่กำหนด
