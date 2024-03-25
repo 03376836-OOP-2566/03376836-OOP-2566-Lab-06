@@ -41,6 +41,9 @@ dotnet build  Lab06_Ex04
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
 
+![2 3](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/9ad5e840-e3d0-4383-ae57-1de3cd7c7360)
+
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -49,4 +52,9 @@ dotnet run --project Lab06_Ex04
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![2 4](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/02db4620-6dc3-42f2-b9b8-035b322df782)
+
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล a1.b1 = 10 AAA.b2 = 40 a2.b1 = 30 a2.b2 = 40
