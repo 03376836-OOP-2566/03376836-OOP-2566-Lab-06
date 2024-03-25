@@ -39,6 +39,8 @@ dotnet build  Lab06_Ex07
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
 
+![7](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/213950bb-990c-46dd-88f9-9b364a3b9795)
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -47,4 +49,10 @@ dotnet run --project Lab06_Ex07
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![7 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-06/assets/144195995/e085cac1-4b5f-4140-9044-1789ad3719fc)
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+ เเสดงผลเป็น
+ Radius = 100, Area = 31415.899999999998
+ Radius = 100, Circumference = 628.318
