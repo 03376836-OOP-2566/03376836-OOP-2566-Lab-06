@@ -1,5 +1,5 @@
 ## โค้ดมีข้อผิดพลาด มีการแก้ไขโค้ด
-'''
+```
 Person person = new Person();
 person.name = "Enter your name here";
 System.Console.WriteLine(person.GetName());
@@ -21,7 +21,7 @@ class Student : Person
 {
 
 }
-'''
+```
 # บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 ![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-06/assets/144195611/5d0af73a-8d7e-4b0d-ac86-a0c5c3a27709)
 
