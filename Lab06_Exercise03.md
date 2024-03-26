@@ -39,6 +39,7 @@ dotnet build  Lab06_Ex03
 ```
 
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-06/assets/144195708/7eba3f30-9652-4576-9224-4a924b152b4a)
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
 ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-06/assets/144195708/d2e66dc2-9ecf-4f9b-89d4-79125a57667c)
