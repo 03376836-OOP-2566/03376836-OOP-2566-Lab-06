@@ -5,7 +5,10 @@
 # บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 ![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-06/assets/144195611/4f399ce4-7f7c-490c-8ab8-a0024495063e)
 
-## แก้ไข
+## แก้ไข 
+ประกาศตัวแปรใหม่
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-06/assets/144195611/b85dca53-deaa-474f-8eaf-a9c0284695ee)
+
 ![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-06/assets/144195611/291cc34d-6907-49af-99bd-598ec9b33eff)
 
 # อธิบายสิ่งที่พบในการทดลอง
